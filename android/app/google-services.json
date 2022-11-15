@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546735786325",
+    "project_id": "taskbuddy-4859c",
+    "storage_bucket": "taskbuddy-4859c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546735786325:android:b5ab62e48222190290c7dc",
+        "android_client_info": {
+          "package_name": "com.example.taskbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546735786325-oe3blq6pbm16k8bolsbohnnu6jpij2ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4L270hQG_LNfr6BqS3C4Qjpb5QRsWHO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546735786325-oe3blq6pbm16k8bolsbohnnu6jpij2ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
